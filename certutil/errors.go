@@ -3,9 +3,6 @@ package certutil
 import "gitlab.zlattice.top/zlattice/common/zerror"
 
 var (
-	_ = zerror.RegisterErrorRange("crypto", 4000, 4100)
-)
-var (
 	CertExpired,
 	CertNotYetValid,
 	CertRevoked,
