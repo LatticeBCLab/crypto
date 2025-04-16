@@ -10,7 +10,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.10.0
 	github.com/tjfoc/gmsm v1.4.1
-	gitlab.zlattice.top/zlattice/common v0.0.0-20250415074746-a1f1d6185b84
+	gitlab.zlattice.top/zlattice/common v0.0.0-20250416064151-bdfb2a08ccff
 	go.dedis.ch/kyber/v3 v3.1.0
 	golang.org/x/crypto v0.37.0
 )
